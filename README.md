@@ -499,6 +499,8 @@ This will:
 
 ## Output
 
+<img src="screenshots/Screenshot 2026-03-24 124307.png" width="1000">
+
 <img src="screenshots/Screenshot 2026-03-24 112156.png" width="1000">
 
 ---
