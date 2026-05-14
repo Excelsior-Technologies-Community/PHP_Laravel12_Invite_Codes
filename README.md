@@ -499,6 +499,11 @@ This will:
 
 ## Output
 
+<<<<<<< HEAD
+=======
+<img src="screenshots/Screenshot 2026-03-24 124307.png" width="1000">
+
+>>>>>>> development
 <img src="screenshots/Screenshot 2026-03-24 112156.png" width="1000">
 
 ---
